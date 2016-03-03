@@ -1,5 +1,6 @@
 #About
 A file transfer java app based on sockets. (for academic purposes only)
+This small project also helped me learning how to use maven.
 
 #Compiling/running
 Requires maven (and java) to compile
