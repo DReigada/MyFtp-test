@@ -2,7 +2,7 @@
 A file transfer java app based one sockets. (for academic purposes only)
 
 #Compiling/running
-Requirements maven (and java) to compile
+Requires maven (and java) to compile
 
 1- Use make to compile/copy the runnable jars into the main directory
 
