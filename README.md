@@ -12,5 +12,6 @@ Requires maven (and java) to compile
 ###### Running the server:
   java -jar server.jar port mode filename
 
-###### Modes:  0 - receive
+###### Modes:  
+        0 - receive
         1 - send
