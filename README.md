@@ -1,5 +1,5 @@
 #About
-A file transfer java app based one sockets. (for academic purposes only)
+A file transfer java app based on sockets. (for academic purposes only)
 
 #Compiling/running
 Requires maven (and java) to compile
