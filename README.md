@@ -1,5 +1,5 @@
 #About
-A file transfer java app based on sockets. (for academic purposes only)
+A file transfer java app based on sockets. (for testing purposes, it's not safe at all)
 This small project also helped me learning how to use maven.
 
 #Compiling/running
